@@ -1,57 +1,56 @@
-# 🌌 Naman Pahariya
-### Aspiring Astrophysicist | Hardware Engineer | Computational Physicist
+# 🪐 Naman Pahariya
+### Aspiring Astrophysicist | Embedded Systems Engineer | Researcher
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Status-12th_Grade_Student-blue?style=flat-square">
+  <img src="https://img.shields.io/badge/Academic-12th_Grade_Student-blue?style=flat-square">
   <img src="https://img.shields.io/badge/Location-Kanpur,_India-orange?style=flat-square">
-  <img src="https://img.shields.io/badge/Focus-IAT_%26_IISc_Preparation-green?style=flat-square">
+  <img src="https://img.shields.io/badge/Target-IISc_Bangalore_(IAT)-green?style=flat-square">
 </p>
 
 ---
 
-### 💫 About Me
-I sit at the intersection of **Theoretical Physics** and **Practical Engineering**. When I'm deep-diving into the mathematics of the cosmos and building hardware to automate the world around me. My ultimate goal is to bridge the gap between high-level astrophysics and the technology required to explore it.
+### 🚀 About Me
+I am a maker at heart and a physicist by aspiration. I spend my time exploring the mathematical beauty of the universe and translating that logic into hardware and software. I am currently focused on securing my path at **IISc Bangalore** to pursue deep research in Astrophysics and Cosmology.
 
-* 🔭 **Current Goal:** Securing a BS-MS spot at **IISc Bangalore** via the IAT.
-* 🧠 **Research Interests:** Quantum Mechanics, General Relativity, and String Theory.
-* 🛠️ **Maker Spirit:** Winner of the **Inspire Award MANAK** (DST) for innovative vehicle systems.
-* 🤖 **Personal Project:** Developing **Nexus**, a custom-built AI environment for IoT integration.
+* 🔭 **Physics:** Currently investigating Quantum Mechanics, General Relativity, and String Theory.
+* 🛠️ **Engineering:** Specialized in IoT development, custom PCB design, and automation.
+* 🏆 **Recognition:** Winner of the **Inspire Award MANAK** (DST) for innovative hardware security.
+* 🤖 **AI:** Developing **Nexus**, a localized AI assistant for workflow and IoT control.
 
 ---
 
-### 📊 Performance & Metrics
-| **GitHub Stats** | **Trophies & Language Rank** |
+### 📊 System Metrics
+| **GitHub Insights** | **Trophies & Expertise** |
 | :--- | :--- |
 | ![](https://github-readme-stats.vercel.app/api?username=NamanPahariya2009&theme=dark&hide_border=true&include_all_commits=true) | ![](https://github-profile-trophy.vercel.app/?username=NamanPahariya2009&theme=transparent&no-frame=true&column=2) |
-| ![](https://github-readme-stats.vercel.app/api/top-langs/?username=NamanPahariya2009&theme=dark&hide_border=true&layout=compact) | **Current Streak:** ![](https://nirzak-streak-stats.vercel.app/?user=NamanPahariya2009&theme=dark&hide_border=true) |
+| ![](https://github-readme-stats.vercel.app/api/top-langs/?username=NamanPahariya2009&theme=dark&hide_border=true&layout=compact) | **Streak Status:** ![](https://nirzak-streak-stats.vercel.app/?user=NamanPahariya2009&theme=dark&hide_border=true) |
 
 ---
 
-### 🛠️ Technical Toolkit
-| Category | Tools & Technologies |
-| :--- | :--- |
-| **Languages** | ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?logo=powershell&logoColor=white) |
-| **Science/AI** | ![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy) ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow) |
-| **Hardware** | ![Arduino](https://img.shields.io/badge/-Arduino-00979D?logo=arduino) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?logo=raspberry-pi) ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker) |
-| **OS & Env** | ![Windows](https://img.shields.io/badge/-Windows-0078D6?logo=windows) ![Home Assistant](https://img.shields.io/badge/-Home_Assistant-41BDF5?logo=home-assistant) |
+### 🛠️ Technical Stack
+**Languages & Logic** ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?logo=powershell&logoColor=white)
+
+**Scientific & Computational** ![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy) ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow)
+
+**Hardware & Prototyping** ![Arduino](https://img.shields.io/badge/-Arduino-00979D?logo=arduino) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?logo=raspberry-pi) ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker) ![Home Assistant](https://img.shields.io/badge/-Home_Assistant-41BDF5?logo=home-assistant)
 
 ---
 
-### 🚀 Featured Repositories
-* **[Nexus Core](https://github.com/NamanPahariya2009)**: The brain behind my personal AI assistant. Modular, Python-based, and built for IoT.
-* **[RFID Vehicle Start System](https://github.com/NamanPahariya2009/RFID-Vehical-Start-System)**: Winner of the Inspire Award MANAK. A hardware-based security solution for vehicles.
-* **[PCB Auditor](https://github.com/NamanPahariya2009/PCB-Auditor-Knight-Divers)**: Computational tools for hardware verification.
+### 🔬 Featured Research & Development
+* **[RFID-Vehicle-Start-System](https://github.com/NamanPahariya2009/RFID-Vehicle-Start-System)**: A high-security ignition system using localized RFID authentication. (DST Recognized).
+* **[PCB-Auditor-Knight-Divers](https://github.com/NamanPahariya2009/PCB-Auditor-Knight-Divers)**: Computational tools designed for verifying hardware integrity and circuit logic.
+* **[Project Nexus]**: (Private Repo) Building a cross-platform AI assistant optimized for local hardware control.
 
 ---
 
-### 🔬 The Astrophysics Lab
-I am currently working on mastering the mathematical frameworks of:
-$$G_{\mu\nu} + \Lambda g_{\mu\nu} = \frac{8\pi G}{c^4} T_{\mu\nu}$$
-*I use Python and C++ to simulate complex physical systems, focusing on orbital mechanics and quantum state fluctuations.*
+### 🌌 Theoretical Physics Focus
+I use computational models to understand the fundamental laws of reality:
+$$R_{\mu\nu} - \frac{1}{2}Rg_{\mu\nu} + \Lambda g_{\mu\nu} = \frac{8\pi G}{c^4}T_{\mu\nu}$$
+*Actively simulating state-space fluctuations and orbital dynamics using Python.*
 
 ---
 
-### 🌐 Connect with Me
+### 🌐 Connect With Me
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://linkedin.com/in/naman-pahariya-7a28942b6)
 [<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">](https://youtube.com/@NAMANPAHARIA-fk1mz)
 [<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">](https://instagram.com/naman_paharia_217)
@@ -59,5 +58,5 @@ $$G_{\mu\nu} + \Lambda g_{\mu\nu} = \frac{8\pi G}{c^4} T_{\mu\nu}$$
 
 ---
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=NamanPahariya2009&icon=8&color=0" alt="Visitor Count">
+  <img src="https://komarev.com/ghpvc/?username=NamanPahariya2009&color=blue&style=flat-square" alt="Visitor Count">
 </p>
