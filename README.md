@@ -9,13 +9,13 @@
 
 ---
 
-### 🚀 The Mission
+### 🚀 About Naman
 I operate at the boundary where **Theoretical Physics** meets **Extreme Engineering**. My work involves creating high-fidelity simulations of cosmological phenomena and building the localized hardware ecosystems required to interface with them. I am a firm believer in the "Agentic Future"—where AI, Hardware, and Physics converge.
 
 * 🔭 **Physics:** Modeling state-space fluctuations and General Relativity tensors.
 * 🛠️ **Hardware Engineering:** Specialized in IoT development, custom PCB architecture, and firmware optimization.
 * 🏆 **Recognition:** Awarded the **Inspire Award MANAK** (DST) for innovative hardware security solutions.
-* 🧠 **Neural Systems:** Developing **Nexus**, a localized multi-modal AI architecture for hardware orchestration.
+* 🤖 **Project Nexus:** Developing a localized, multi-modal AI architecture for high-efficiency workflow automation.
 
 ---
 
@@ -28,7 +28,7 @@ I operate at the boundary where **Theoretical Physics** meets **Extreme Engineer
 | ![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?logo=kotlin) | ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?logo=opencv) | ![GitHub_Actions](https://img.shields.io/badge/-Actions-2671E5?logo=githubactions) |
 | ![NodeJS](https://img.shields.io/badge/-Node.js-339933?logo=node.js) | ![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy) | ![Git](https://img.shields.io/badge/-Git-F05033?logo=git) |
 | ![JavaScript](https://img.shields.io/badge/-JS-F7DF1E?logo=javascript&logoColor=black) | ![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas) | ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github) |
-| ![.Net](https://img.shields.io/badge/-.NET-512BD4?logo=dotnet) | ![Matplotlib](https://img.shields.io/badge/-Matplot-ffffff?logo=matplotlib&logoColor=black) | ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?logo=gitlab) |
+| ![.Net](https://img.shields.io/badge/-.NET-512BD4?logo=dotnet) | ![Matplotlib](https://img.shields.io/badge/-Matplot-ffffff?logo=matplotlib&logoColor=black) | |
 | ![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?logo=powershell) | ![MLFlow](https://img.shields.io/badge/-MLFlow-d9ead3?logo=numpy&logoColor=blue) | ![Gradle](https://img.shields.io/badge/-Gradle-02303A?logo=gradle) |
 | ![SASS](https://img.shields.io/badge/-SASS-CC6699?logo=sass) | ![Arduino](https://img.shields.io/badge/-Arduino-00979D?logo=arduino) | ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma) |
 | ![Windows_Terminal](https://img.shields.io/badge/-Terminal-4D4D4D?logo=windowsterminal) | ![Raspberry_Pi](https://img.shields.io/badge/-Pi-C51A4A?logo=raspberry-pi) | ![Inkscape](https://img.shields.io/badge/-Inkscape-000000?logo=inkscape) |
@@ -38,14 +38,23 @@ I operate at the boundary where **Theoretical Physics** meets **Extreme Engineer
 
 # 📊 System Telemetry:
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NamanPahariya2009&show_icons=true&theme=dark&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NamanPahariya2009&theme=dark&hide_border=true&layout=compact&count_private=true" width="48%" />
-</p>
+> Using robust HTML tables for pixel-perfect card alignment on all devices.
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NamanPahariya2009&theme=dark&hide_border=true" width="97%" />
-</p>
+<table width="100%">
+  <tr>
+    <td width="50%"><img src="https://github-readme-stats.vercel.app/api?username=NamanPahariya2009&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Naman's Stats" width="100%" /></td>
+    <td width="50%"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NamanPahariya2009&theme=dark&hide_border=true&layout=compact&count_private=true" alt="Naman's Languages" width="100%" /></td>
+  </tr>
+  <tr>
+    <td colspan="2"><img src="https://github-readme-streak-stats.herokuapp.com/?user=NamanPahariya2009&theme=dark&hide_border=true" alt="Naman's Streak" width="100%" /></td>
+  </tr>
+</table>
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=NamanPahariya2009&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=NamanPahariya2009&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 
@@ -56,8 +65,8 @@ I operate at the boundary where **Theoretical Physics** meets **Extreme Engineer
 
 ---
 
-### 🌌 Physics Vault
-I use computational models to understand the fundamental laws of reality:
+### 🌌 Physics Core
+modeling the curvature of spacetime and complex physical systems:
 $$R_{\mu\nu} - \frac{1}{2}Rg_{\mu\nu} + \Lambda g_{\mu\nu} = \frac{8\pi G}{c^4}T_{\mu\nu}$$
 
 ---
