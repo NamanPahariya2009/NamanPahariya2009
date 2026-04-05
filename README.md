@@ -1,66 +1,74 @@
 # 🪐 Naman Pahariya
-### Astrophysicist & Embedded Systems Engineer
+### Researcher | Embedded Systems Architect | Computational Physicist
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Focus-Theoretical_Physics-blue?style=flat-square">
-  <img src="https://img.shields.io/badge/Specialization-IoT_&_Hardware-orange?style=flat-square">
-  <img src="https://img.shields.io/badge/Status-Active_R%26D-green?style=flat-square">
+  <img src="https://img.shields.io/badge/Specialization-Astrophysics_%26_Cosmology-blue?style=for-the-badge&logo=nasa&logoColor=white">
+  <img src="https://img.shields.io/badge/Expertise-IoT_&_Hardware_Security-orange?style=for-the-badge&logo=arduino&logoColor=white">
+  <img src="https://img.shields.io/badge/R%26D_Status-Active_Stealth-green?style=for-the-badge&logo=gitbook&logoColor=white">
 </p>
 
 ---
 
-### 🚀 About Me
-I operate at the intersection of **Theoretical Physics** and **Practical Engineering**. My work focuses on building the hardware and software necessary to simulate and interact with complex physical systems. From designing custom PCBs to modeling cosmological data and implementing AI-driven automation, I am driven by the pursuit of understanding fundamental reality.
+### 🚀 The Mission
+I operate at the boundary where **Theoretical Physics** meets **Extreme Engineering**. My work involves creating high-fidelity simulations of cosmological phenomena and building the localized hardware ecosystems required to interface with them. I am a firm believer in the "Agentic Future"—where AI, Hardware, and Physics converge.
 
-* 🔭 **Theoretical Physics:** Deep-diving into Quantum Mechanics, General Relativity, and String Theory.
-* 🛠️ **Hardware Engineering:** Specialized in IoT development, custom PCB architecture, and firmware optimization.
-* 🏆 **Recognition:** Awarded the **Inspire Award MANAK** (DST) for innovative hardware security solutions.
-* 🤖 **Project Nexus:** Developing a localized, multi-modal AI environment for high-efficiency workflow automation.
-
----
-
-# 💻 Tech Stack:
-
-### 🛠️ Languages & Frameworks
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
-
-### 🧠 AI, Data Science & Computer Vision
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue)
-
-### 🏗️ Hardware, IoT & DevOps
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![Home Assistant](https://img.shields.io/badge/home%20assistant-%2341BDF5.svg?style=for-the-badge&logo=home-assistant&logoColor=white) ![Homebridge](https://img.shields.io/badge/homebridge-%23491F59.svg?style=for-the-badge&logo=homebridge&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-
-### 🔧 Tools & Workflow
-![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=for-the-badge&logo=inkscape&logoColor=080A13)
+* 🔭 **Physics:** Modeling state-space fluctuations and General Relativity tensors.
+* 🛠️ **Maker Spirit:** Winner of the **Inspire Award MANAK** (DST) for hardware security innovation.
+* 🧠 **Neural Systems:** Developing **Nexus**, a localized multi-modal AI architecture for hardware orchestration.
+* 🤫 **Stealth Lab:** Currently developing high-security fintech hardware (Patent Pending).
 
 ---
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=NamanPahariya2009&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
+# 💻 Technology Landscape:
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=NamanPahariya2009&theme=dark&hide_border=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=NamanPahariya2009&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=NamanPahariya2009&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
----
-
-### 🔬 Featured Research & Development
-* 🚘 **[RFID-Vehicle-Start-System](https://github.com/NamanPahariya2009/RFID-Vehicle-Start-System)**: A high-security ignition system using localized RFID authentication (DST Recognized).
-* ⚡ **[PCB-Auditor](https://github.com/NamanPahariya2009/PCB-Auditor-Knight-Divers)**: Computational tools for hardware verification and circuit logic auditing.
-* 🧠 **[Project Nexus]**: (Stealth Mode) A modular AI core designed for localized IoT integration and control.
+| **Core Engineering** | **Research & Data** | **DevOps & Design** |
+| :--- | :--- | :--- |
+| ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white) | ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch) | ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker) |
+| ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) | ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow) | ![Kubernetes](https://img.shields.io/badge/-K8s-326CE5?logo=kubernetes) |
+| ![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?logo=kotlin) | ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?logo=opencv) | ![GitHub_Actions](https://img.shields.io/badge/-Actions-2671E5?logo=githubactions) |
+| ![NodeJS](https://img.shields.io/badge/-Node.js-339933?logo=node.js) | ![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy) | ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?logo=gitlab) |
+| ![JavaScript](https://img.shields.io/badge/-JS-F7DF1E?logo=javascript&logoColor=black) | ![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas) | ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma) |
+| ![Arduino](https://img.shields.io/badge/-Arduino-00979D?logo=arduino) | ![Matplotlib](https://img.shields.io/badge/-Matplot-ffffff?logo=matplotlib&logoColor=black) | ![Inkscape](https://img.shields.io/badge/-Inkscape-000000?logo=inkscape) |
 
 ---
 
-### 🌌 Physics Core
-Modeling the curvature of spacetime and quantum state fluctuations:
-$$R_{\mu\nu} - \frac{1}{2}Rg_{\mu\nu} + \Lambda g_{\mu\nu} = \frac{8\pi G}{c^4}T_{\mu\nu}$$
+# 📊 System Telemetry:
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=NamanPahariya2009&show_icons=true&theme=dark&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NamanPahariya2009&theme=dark&hide_border=true&layout=compact&count_private=true" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NamanPahariya2009&theme=dark&hide_border=true" width="97%" />
+</p>
 
 ---
 
-### 🌐 Social Connect
+### 🔬 Curated Knowledge & R&D
+> Inspired by the "Landscape" method of tracking tech evolutions.
+
+* 📂 **[Computational Physics]**: Simulations of orbital mechanics and quantum fluctuations.
+* 📂 **[IoT Security Patterns]**: A landscape of localized RFID and biometric hardware authentication.
+* 📂 **[Agentic AI Architectures]**: Research notes on building Jarvis-like interfaces for IoT control.
+
+---
+
+### 🌌 The Physics Vault
+I use computational models to understand the fundamental laws of reality:
+$$G_{\mu\nu} + \Lambda g_{\mu\nu} = \frac{8\pi G}{c^4} T_{\mu\nu}$$
+*Currently investigating the intersection of String Theory and Quantum Decoherence.*
+
+---
+
+### 🏆 Achievements
+* **Inspire Award MANAK**: Recognized by the Department of Science & Technology (DST) for innovation.
+* **Hardware Prototyping**: Developed a secure RFID-based vehicle ignition environment.
+* **Localized AI**: Architected the "Nexus" core for cross-platform hardware-level logic.
+
+---
+
+### 🌐 Neural Links
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://linkedin.com/in/naman-pahariya-7a28942b6)
 [<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">](https://youtube.com/@NAMANPAHARIA-fk1mz)
 [<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">](https://instagram.com/naman_paharia_217)
@@ -68,5 +76,5 @@ $$R_{\mu\nu} - \frac{1}{2}Rg_{\mu\nu} + \Lambda g_{\mu\nu} = \frac{8\pi G}{c^4}T
 
 ---
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=NamanPahariya2009&label=Profile%20Views&color=0e75b6&style=flat" alt="Views" />
+  <img src="https://komarev.com/ghpvc/?username=NamanPahariya2009&label=RESEARCH_ACCESS&color=0e75b6&style=flat-square" alt="Views" />
 </p>
