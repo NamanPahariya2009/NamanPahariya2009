@@ -1,28 +1,63 @@
-# 💫 About Me:
-🌌 Naman | Aspiring Astrophysicist & Maker<br>12th Grade Student | Kanpur, India<br><br>🏆 Achievements & Projects<br>Inspire Award MANAK: Recognized for innovation and scientific temperament by the Department of Science & Technology (DST).<br><br>Project Nexus: Currently developing a personal AI assistant (my own Jarvis) to streamline my workflow and IoT experiments.<br><br>Research Interests: Deep-diving into Quantum Physics, Cosmology, and String Theory.<br><br>🎓 Academic Journey<br>Current: Preparing for IAT and JEE to secure a spot at IISc Bangalore.<br><br>Long-term Goal: Pursuing a BS followed by a direct PhD in Astrophysics to uncover the secrets of the universe.<br><br>🛠️ Technical Toolkit<br>Languages: Python, C++<br><br>Hardware: IoT Development, PCB Designing, 3D Design
+# 🌌 Naman Pahariya
+### Aspiring Astrophysicist | Hardware Engineer | Computational Physicist
 
-
-### 🌐 Socials:
-
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/naman_paharia_217) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/naman-pahariya-7a28942b6) 
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/@NAMANPAHARIA-fk1mz) 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:namanpaharia217@gmail.com)
-
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Home Assistant](https://img.shields.io/badge/home%20assistant-%2341BDF5.svg?style=for-the-badge&logo=home-assistant&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=NamanPahariya2009&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=NamanPahariya2009&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=NamanPahariya2009&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=NamanPahariya2009&theme=transparent&no-frame=false&no-bg=false&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=NamanPahariya2009&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="left">
+  <img src="https://img.shields.io/badge/Status-12th_Grade_Student-blue?style=flat-square">
+  <img src="https://img.shields.io/badge/Location-Kanpur,_India-orange?style=flat-square">
+  <img src="https://img.shields.io/badge/Focus-IAT_%26_IISc_Preparation-green?style=flat-square">
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=NamanPahariya2009&icon=8&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 💫 About Me
+I sit at the intersection of **Theoretical Physics** and **Practical Engineering**. When I'm not deep-diving into the mathematics of the cosmos, I'm building hardware to automate the world around me. My ultimate goal is to bridge the gap between high-level astrophysics and the technology required to explore it.
+
+* 🔭 **Current Goal:** Securing a BS-MS spot at **IISc Bangalore** via the IAT.
+* 🧠 **Research Interests:** Quantum Mechanics, General Relativity, and String Theory.
+* 🛠️ **Maker Spirit:** Winner of the **Inspire Award MANAK** (DST) for innovative vehicle systems.
+* 🤖 **Personal Project:** Developing **Nexus**, a custom-built AI environment for IoT integration.
+
+---
+
+### 📊 Performance & Metrics
+| **GitHub Stats** | **Trophies & Language Rank** |
+| :--- | :--- |
+| ![](https://github-readme-stats.vercel.app/api?username=NamanPahariya2009&theme=dark&hide_border=true&include_all_commits=true) | ![](https://github-profile-trophy.vercel.app/?username=NamanPahariya2009&theme=transparent&no-frame=true&column=2) |
+| ![](https://github-readme-stats.vercel.app/api/top-langs/?username=NamanPahariya2009&theme=dark&hide_border=true&layout=compact) | **Current Streak:** ![](https://nirzak-streak-stats.vercel.app/?user=NamanPahariya2009&theme=dark&hide_border=true) |
+
+---
+
+### 🛠️ Technical Toolkit
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Languages** | ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?logo=powershell&logoColor=white) |
+| **Science/AI** | ![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy) ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow) |
+| **Hardware** | ![Arduino](https://img.shields.io/badge/-Arduino-00979D?logo=arduino) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?logo=raspberry-pi) ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker) |
+| **OS & Env** | ![Windows](https://img.shields.io/badge/-Windows-0078D6?logo=windows) ![Home Assistant](https://img.shields.io/badge/-Home_Assistant-41BDF5?logo=home-assistant) |
+
+---
+
+### 🚀 Featured Repositories
+* **[Nexus Core](https://github.com/NamanPahariya2009)**: The brain behind my personal AI assistant. Modular, Python-based, and built for IoT.
+* **[RFID Vehicle Start System](https://github.com/NamanPahariya2009/RFID-Vehical-Start-System)**: Winner of the Inspire Award MANAK. A hardware-based security solution for vehicles.
+* **[PCB Auditor](https://github.com/NamanPahariya2009/PCB-Auditor-Knight-Divers)**: Computational tools for hardware verification.
+
+---
+
+### 🔬 The Astrophysics Lab
+I am currently working on mastering the mathematical frameworks of:
+$$G_{\mu\nu} + \Lambda g_{\mu\nu} = \frac{8\pi G}{c^4} T_{\mu\nu}$$
+*I use Python and C++ to simulate complex physical systems, focusing on orbital mechanics and quantum state fluctuations.*
+
+---
+
+### 🌐 Connect with Me
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://linkedin.com/in/naman-pahariya-7a28942b6)
+[<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">](https://youtube.com/@NAMANPAHARIA-fk1mz)
+[<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">](https://instagram.com/naman_paharia_217)
+[<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">](mailto:namanpaharia217@gmail.com)
+
+---
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=NamanPahariya2009&icon=8&color=0" alt="Visitor Count">
+</p>
