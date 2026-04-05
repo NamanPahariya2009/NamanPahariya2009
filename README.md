@@ -2,9 +2,9 @@
 ### Researcher | Embedded Systems Architect | Computational Physicist
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Specialization-Astrophysics_%26_Cosmology-blue?style=for-the-badge&logo=nasa&logoColor=white">
-  <img src="https://img.shields.io/badge/Expertise-IoT_&_Hardware_Security-orange?style=for-the-badge&logo=arduino&logoColor=white">
-  <img src="https://img.shields.io/badge/R%26D_Status-Active_Stealth-green?style=for-the-badge&logo=gitbook&logoColor=white">
+  <img src="https://img.shields.io/badge/Specialization-Astrophysics_%26_Cosmology-blue?style=for-the-badge&logo=nasa&logoColor=white">
+  <img src="https://img.shields.io/badge/Expertise-IoT_&_Hardware_Security-orange?style=for-the-badge&logo=arduino&logoColor=white">
+  <img src="https://img.shields.io/badge/R%26D_Status-Active_Stealth-green?style=for-the-badge&logo=gitbook&logoColor=white">
 </p>
 
 ---
@@ -15,7 +15,6 @@ I operate at the boundary where **Theoretical Physics** meets **Extreme Engineer
 * 🔭 **Physics:** Modeling state-space fluctuations and General Relativity tensors.
 * 🛠️ **Hardware Engineering:** Specialized in IoT development, custom PCB architecture, and firmware optimization.
 * 🏆 **Recognition:** Awarded the **Inspire Award MANAK** (DST) for innovative hardware security solutions.
-* 🤖 **Project Nexus:** Developing a localized, multi-modal AI architecture for high-efficiency workflow automation.
 
 ---
 
@@ -39,15 +38,8 @@ I operate at the boundary where **Theoretical Physics** meets **Extreme Engineer
 # 📊 System Telemetry:
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NamanPahariya2009&theme=dark&hide_border=true" alt="Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NamanPahariya2009&theme=dark&hide_border=true" alt="Streak" />
 </p>
-
----
-
-### 🔬 Curated Knowledge & R&D
-* 📂 **[Computational Physics]**: Simulations of orbital mechanics and quantum fluctuations.
-* 📂 **[IoT Security Patterns]**: A landscape of localized RFID and biometric hardware authentication.
-* 📂 **[Agentic AI Architectures]**: Research notes on building Jarvis-like interfaces for IoT control.
 
 ---
 
@@ -65,5 +57,5 @@ $$R_{\mu\nu} - \frac{1}{2}Rg_{\mu\nu} + \Lambda g_{\mu\nu} = \frac{8\pi G}{c^4}T
 
 ---
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=NamanPahariya2009&label=RESEARCH_ACCESS&color=0e75b6&style=flat-square" alt="Views" />
+  <img src="https://komarev.com/ghpvc/?username=NamanPahariya2009&label=RESEARCH_ACCESS&color=0e75b6&style=flat-square" alt="Views" />
 </p>
