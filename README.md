@@ -38,19 +38,24 @@ I operate at the boundary where **Theoretical Physics** meets **Extreme Engineer
 
 # 📊 System Telemetry:
 
-![Naman's Stats](https://github-readme-stats.vercel.app/api?username=NamanPahariya2009&show_icons=true&theme=dark&hide_border=true&count_private=true&v=1)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NamanPahariya2009&theme=dark&hide_border=true&layout=compact&count_private=true&v=1)
-
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=NamanPahariya2009&theme=dark&hide_border=true&v=1)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=NamanPahariya2009&show_icons=true&theme=dark&hide_border=true" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NamanPahariya2009&theme=dark&hide_border=true&layout=compact" alt="Languages" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NamanPahariya2009&theme=dark&hide_border=true" alt="Streak" />
+</p>
 
 ---
 
 ### 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=NamanPahariya2009&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=NamanPahariya2009&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="Trophies" />
+</p>
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=NamanPahariya2009&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=NamanPahariya2009&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Repo" />
+</p>
 
 ---
 
