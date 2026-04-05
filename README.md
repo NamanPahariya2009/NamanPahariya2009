@@ -45,9 +45,6 @@ I operate at the intersection of **Theoretical Physics** and **Practical Enginee
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=NamanPahariya2009&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=NamanPahariya2009&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
 ---
 
 ### 🔬 Featured Research & Development
@@ -71,5 +68,5 @@ $$R_{\mu\nu} - \frac{1}{2}Rg_{\mu\nu} + \Lambda g_{\mu\nu} = \frac{8\pi G}{c^4}T
 
 ---
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=NamanPahariya2009&icon=0&color=0" alt="Visitor Count">
+  <img src="https://komarev.com/ghpvc/?username=NamanPahariya2009&label=Profile%20Views&color=0e75b6&style=flat" alt="Views" />
 </p>
