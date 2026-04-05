@@ -10,7 +10,7 @@
 ---
 
 ### 💫 About Me
-I sit at the intersection of **Theoretical Physics** and **Practical Engineering**. When I'm not deep-diving into the mathematics of the cosmos, I'm building hardware to automate the world around me. My ultimate goal is to bridge the gap between high-level astrophysics and the technology required to explore it.
+I sit at the intersection of **Theoretical Physics** and **Practical Engineering**. When I'm deep-diving into the mathematics of the cosmos and building hardware to automate the world around me. My ultimate goal is to bridge the gap between high-level astrophysics and the technology required to explore it.
 
 * 🔭 **Current Goal:** Securing a BS-MS spot at **IISc Bangalore** via the IAT.
 * 🧠 **Research Interests:** Quantum Mechanics, General Relativity, and String Theory.
