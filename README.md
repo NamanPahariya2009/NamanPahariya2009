@@ -40,9 +40,6 @@ I operate at the boundary where **Theoretical Physics** meets **Extreme Engineer
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=NamanPahariya2009&theme=dark&hide_border=true" alt="Streak" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=NamanPahariya2009&show_icons=true&theme=dark&hide_border=true&v=3" alt="Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NamanPahariya2009&theme=dark&hide_border=true&layout=compact&v=3" alt="Languages" />
 </p>
 
 ---
