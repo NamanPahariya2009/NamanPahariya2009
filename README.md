@@ -10,7 +10,7 @@
 ---
 
 ### 🚀 About Me
-I operate at the intersection of **Theoretical Physics** and **Practical Engineering**. My work focuses on building the hardware and software necessary to simulate and interact with complex physical systems. From designing custom PCBs to modeling cosmological data, I am driven by the pursuit of understanding fundamental reality.
+I operate at the intersection of **Theoretical Physics** and **Practical Engineering**. My work focuses on building the hardware and software necessary to simulate and interact with complex physical systems. From designing custom PCBs to modeling cosmological data and implementing AI-driven automation, I am driven by the pursuit of understanding fundamental reality.
 
 * 🔭 **Theoretical Physics:** Deep-diving into Quantum Mechanics, General Relativity, and String Theory.
 * 🛠️ **Hardware Engineering:** Specialized in IoT development, custom PCB architecture, and firmware optimization.
@@ -19,30 +19,39 @@ I operate at the intersection of **Theoretical Physics** and **Practical Enginee
 
 ---
 
-### 📊 System Metrics
+# 💻 Tech Stack:
 
-> [!NOTE]
-> *If metrics appear as broken images, the external stats server is likely undergoing maintenance. They will auto-restore shortly.*
+### 🛠️ Languages & Core
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
 
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=NamanPahariya2009&theme=dark&hide_border=true)
+### 🧠 AI, Data & Research
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NamanPahariya2009&show_icons=true&theme=dark&hide_border=true)
+### 🏗️ Hardware, IoT & DevOps
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![Home Assistant](https://img.shields.io/badge/home%20assistant-%2341BDF5.svg?style=for-the-badge&logo=home-assistant&logoColor=white) ![Homebridge](https://img.shields.io/badge/homebridge-%23491F59.svg?style=for-the-badge&logo=homebridge&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NamanPahariya2009&theme=dark&hide_border=true&layout=compact)
-
----
-
-### 🛠️ Technical Toolkit
-
-**Languages & Logic** ![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
-
-**Scientific & Computational** ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy) ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow)
-
-**Hardware & Prototyping** ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=arduino) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=raspberry-pi) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker) ![Home Assistant](https://img.shields.io/badge/-Home_Assistant-41BDF5?style=for-the-badge&logo=home-assistant)
+### 🌐 Web & Workflow
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=for-the-badge&logo=inkscape&logoColor=080A13)
 
 ---
 
-### 🔬 Featured Repositories
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=NamanPahariya2009&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=NamanPahariya2009&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=NamanPahariya2009&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=NamanPahariya2009&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=NamanPahariya2009&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+
+### 🔬 Featured Research & Development
 * 🚘 **[RFID-Vehicle-Start-System](https://github.com/NamanPahariya2009/RFID-Vehicle-Start-System)**: A high-security ignition system using localized RFID authentication (DST Recognized).
 * ⚡ **[PCB-Auditor](https://github.com/NamanPahariya2009/PCB-Auditor-Knight-Divers)**: Computational tools for hardware verification and circuit logic auditing.
 * 🧠 **[Project Nexus]**: (Stealth Mode) A modular AI core designed for localized IoT integration and control.
@@ -63,5 +72,5 @@ $$R_{\mu\nu} - \frac{1}{2}Rg_{\mu\nu} + \Lambda g_{\mu\nu} = \frac{8\pi G}{c^4}T
 
 ---
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=NamanPahariya2009&color=blue&style=flat-square" alt="Visitor Count">
+  [![](https://visitcount.itsvg.in/api?id=NamanPahariya2009&icon=0&color=0)](https://visitcount.itsvg.in)
 </p>
