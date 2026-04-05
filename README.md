@@ -21,13 +21,14 @@ I operate at the intersection of **Theoretical Physics** and **Practical Enginee
 
 ### 📊 System Metrics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NamanPahariya2009&show_icons=true&theme=dark&hide_border=true&cache_seconds=1800)
+> [!NOTE]
+> *If metrics appear as broken images, the external stats server is likely undergoing maintenance. They will auto-restore shortly.*
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NamanPahariya2009&theme=dark&hide_border=true&layout=compact&cache_seconds=1800)
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=NamanPahariya2009&theme=dark&hide_border=true)
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=NamanPahariya2009&theme=transparent&no-frame=true&column=3)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NamanPahariya2009&show_icons=true&theme=dark&hide_border=true)
 
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=NamanPahariya2009&theme=dark&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NamanPahariya2009&theme=dark&hide_border=true&layout=compact)
 
 ---
 
