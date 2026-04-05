@@ -21,11 +21,15 @@ I operate at the intersection of **Theoretical Physics** and **Practical Enginee
 
 ### 📊 System Metrics
 
-| **GitHub Insights** | **Trophies & Expertise** |
-| :---: | :---: |
-| <img src="https://github-readme-stats.vercel.app/api?username=NamanPahariya2009&theme=dark&hide_border=true&include_all_commits=true" height="150" /> | <img src="https://github-profile-trophy.vercel.app/?username=NamanPahariya2009&theme=transparent&no-frame=true&column=2" height="150" /> |
-| **Top Languages** | **Contribution Streak** |
-| <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NamanPahariya2009&theme=dark&hide_border=true&layout=compact" height="150" /> | <img src="https://nirzak-streak-stats.vercel.app/?user=NamanPahariya2009&theme=dark&hide_border=true" height="150" /> |
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=NamanPahariya2009&show_icons=true&theme=dark&hide_border=true" alt="Naman's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NamanPahariya2009&theme=dark&hide_border=true&layout=compact" alt="Naman's Top Langs" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=NamanPahariya2009&theme=transparent&no-frame=true&column=2" alt="Trophies" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NamanPahariya2009&theme=dark&hide_border=true" alt="Streak" />
+</p>
 
 ---
 
