@@ -21,15 +21,13 @@ I operate at the intersection of **Theoretical Physics** and **Practical Enginee
 
 ### 📊 System Metrics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NamanPahariya2009&show_icons=true&theme=dark&hide_border=true" alt="Naman's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NamanPahariya2009&theme=dark&hide_border=true&layout=compact" alt="Naman's Top Langs" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NamanPahariya2009&show_icons=true&theme=dark&hide_border=true&cache_seconds=1800)
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=NamanPahariya2009&theme=transparent&no-frame=true&column=2" alt="Trophies" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NamanPahariya2009&theme=dark&hide_border=true" alt="Streak" />
-</p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NamanPahariya2009&theme=dark&hide_border=true&layout=compact&cache_seconds=1800)
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=NamanPahariya2009&theme=transparent&no-frame=true&column=3)
+
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=NamanPahariya2009&theme=dark&hide_border=true)
 
 ---
 
