@@ -37,12 +37,6 @@ I operate at the boundary where **Theoretical Physics** meets **Extreme Engineer
 # 📊 System Telemetry:
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=NamanPahariya2009&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&v=1" alt="Trophies" />
-  </a>
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=NamanPahariya2009&show_icons=true&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NamanPahariya2009&show_icons=true&theme=tokyonight&layout=compact&hide_border=true" width="48%" alt="Top Languages" />
 </p>
