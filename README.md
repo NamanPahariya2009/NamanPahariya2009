@@ -38,7 +38,7 @@ I operate at the boundary where **Theoretical Physics** meets **Extreme Engineer
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=NamanPahariya2009&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=NamanPahariya2009&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&v=1" alt="Trophies" />
   </a>
 </p>
 
