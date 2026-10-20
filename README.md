@@ -1,4 +1,4 @@
-# 🪐 Naman Pahariya
+#  Naman Pahariya
 ### Researcher | Embedded Systems Architect | Computational Physicist
 
 <p align="left">
@@ -9,16 +9,16 @@
 
 ---
 
-### 🚀 About Naman
+###  About Naman
 I operate at the boundary where **Theoretical Physics** meets **Extreme Engineering**. My work involves creating high-fidelity simulations of cosmological phenomena and building the localized hardware ecosystems required to interface with them. I am a firm believer in the "Agentic Future"—where AI, Hardware, and Physics converge.
 
-* 🔭 **Physics:** Modeling state-space fluctuations and General Relativity tensors.
-* 🛠️ **Hardware Engineering:** Specialized in IoT development, custom PCB architecture, and firmware optimization.
-* 🏆 **Recognition:** Awarded the **Inspire Award MANAK** (DST) for innovative hardware security solutions.
+*  **Physics:** Modeling state-space fluctuations and General Relativity tensors.
+*  **Hardware Engineering:** Specialized in IoT development, custom PCB architecture, and firmware optimization.
+*  **Recognition:** Awarded the **Inspire Award MANAK** (DST) for innovative hardware security solutions.
 
 ---
 
-# 💻 Technology Landscape:
+#  Technology Landscape:
 
 | **Core Engineering & OS** | **AI, ML & Data Science** | **DevOps, Hardware & Design** |
 | :--- | :--- | :--- |
@@ -34,7 +34,7 @@ I operate at the boundary where **Theoretical Physics** meets **Extreme Engineer
 
 ---
 
-# 📊 System Telemetry:
+#  System Telemetry:
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=NamanPahariya2009&show_icons=true&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Stats" />
@@ -47,7 +47,7 @@ I operate at the boundary where **Theoretical Physics** meets **Extreme Engineer
 
 ---
 
-### 🌌 Physics Core
+###  Physics Core
 Modeling the curvature of spacetime and complex physical systems:
 <div align="center">
 
